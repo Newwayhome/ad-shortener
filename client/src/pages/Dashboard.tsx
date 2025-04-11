@@ -1,7 +1,12 @@
 import React from 'react';
 
 const Dashboard: React.FC = () => {
-  // ... existing component code ...
+  return (
+    <div>
+      <h1>Dashboard</h1>
+      {/* Add your dashboard content here */}
+    </div>
+  );
 };
 
-export default Dashboard; 
+export default Dashboard;
